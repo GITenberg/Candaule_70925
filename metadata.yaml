@@ -1,0 +1,26 @@
+_repo: Candaule_70925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sacchetti, Roberto
+    gutenberg_agent_id: '55998'
+    url: http://www.gutenberg.org/2009/agents/55998
+description: ''
+gutenberg_issued: '2023-06-06'
+identifiers:
+  gutenberg: '70925'
+language: it
+pgterms:marc905: 20220925110627sacchetti
+pgterms:marc906: '1879'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aItaly :$bTreves, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Candaule
+url: http://www.gutenberg.org/ebooks/70925
